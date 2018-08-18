@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project1", "Project1\Project1.vcxproj", "{09AC0BF8-53A1-4C31-A7A7-07378020A6E6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AIIT Solution", "Project1\Project1.vcxproj", "{09AC0BF8-53A1-4C31-A7A7-07378020A6E6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CC39C603-F061-424D-B2D0-97F03E7589F9}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\Documents\assignment.pdf = ..\..\..\Downloads\Documents\assignment.pdf
+		..\..\..\OneDrive\Desktop\Performance Comparsion.png = ..\..\..\OneDrive\Desktop\Performance Comparsion.png
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
